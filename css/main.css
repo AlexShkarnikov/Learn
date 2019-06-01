@@ -223,20 +223,6 @@
     padding-bottom: 30px;
     text-align: center; }
 
-.calendar {
-  background: url(../img/main-background.jpg) no-repeat 100% center/cover;
-  background-size: cover;
-  height: 800px; }
-  .calendar h1 {
-    text-align: center;
-    padding: 40px;
-    color: #fff; }
-
-.tg-time-pri {
-  text-align: center !important;
-  line-height: 40px !important;
-  color: #fff !important; }
-  
   .header_logo img{
 		height: 500px;
 		display: block;
